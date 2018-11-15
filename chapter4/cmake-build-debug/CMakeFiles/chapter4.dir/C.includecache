@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.c
+stdio.h
+-
+unit2_2.h
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
+
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
+
