@@ -13,8 +13,8 @@
 #define N 10//<稀疏矩阵列数>
 #define Max ((M)>(N)?(M):(N))//矩阵行列较大者
 
-#define ElemType int
-//#define ElemType char
+//#define ElemType int
+#define ElemType char
 
 
 #endif //CHAPTER5_MAIN_H
