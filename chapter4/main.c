@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 #include "unit2_2.h"
+#include "unit2_1.h"
 
 
 int main() {
@@ -40,5 +41,11 @@ int main() {
 //    dispLiString(li);
 //    exa4_3_repl(&li);
 //    dispLiString(li);
+
+    //test_function_subStr
+    SqString s;
+    strAssign(&s,"abc");
+    dispString(s);
+    dispString(subStr(s,2,strLength(s)-1));
 
 }

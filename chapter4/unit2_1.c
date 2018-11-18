@@ -142,7 +142,7 @@ SqString subStr(SqString s, int i, int j){
     if(i<=0||i>s.length||j<0||i-1+j>s.length){
         return str;
     }
-    for(k=i-1;k>i+j-1;k++){
+    for(k=i-1;k<i+j-1;k++){
         str.data[k-i+1]=s.data[k];
     }
     str.length=j;

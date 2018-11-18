@@ -3,6 +3,8 @@
 
 CMakeFiles/chapter4.dir/main.c.o
  /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.c
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.h
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_1.h
  /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
 CMakeFiles/chapter4.dir/unit2_1.c.o
  /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.h
@@ -11,3 +13,8 @@ CMakeFiles/chapter4.dir/unit2_1.c.o
 CMakeFiles/chapter4.dir/unit2_2.c.o
  /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.c
  /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
+CMakeFiles/chapter4.dir/unit3.c.o
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.h
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_1.h
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit3.c
+ /cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit3.h

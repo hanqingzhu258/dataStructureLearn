@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.c
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.h
+
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_1.c
 stdio.h
 -
-unit2_2.h
-/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
+unit2_1.h
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_1.h
 
-/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_2.h
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/unit2_1.h
+main.h
+/cygdrive/e/IT/dataStructure/implementation_c/clion/chapter4/main.h
 
