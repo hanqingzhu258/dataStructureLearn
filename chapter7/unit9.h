@@ -8,6 +8,7 @@
 
 typedef struct node{
     int data;
+    //秩
     int rank;
     int parent;
 }UFSTree;
